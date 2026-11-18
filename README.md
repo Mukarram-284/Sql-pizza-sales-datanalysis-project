@@ -105,6 +105,10 @@ git clone https://github.com/Mukarram-284/Pizza-Sales-SQL.git
 - Applying aggregate and window functions.
 - Developing analytical and problem-solving skills.
 
+- ## 📄 Project Documentation
+
+[View Complete Project Report (PDF)](Pizza_Sales_SQL_Project_Report.pdf)
+
 ## 👨‍💻 Project Purpose
 
 This project is designed for learning and practicing SQL-based data analysis. It demonstrates how raw sales data can be transformed into meaningful insights that help businesses understand customer preferences, monitor performance, and make informed decisions.
